@@ -7,3 +7,4 @@ streamlit~=1.46.1
 pycountry~=24.6.1
 plotly~=6.2.0
 streamlit-elements
+streamlit-aggrid
