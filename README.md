@@ -22,9 +22,18 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
+## Quick Start
+Use the following default login credentials:
+
+- **Username:** `admin`  
+- **Password:** `admin` 
+
 ## Example Dashboard
 Here's a preview of the dashboard:
 ![Dashboard Preview](assets/Screenshot.png)
+
+Link to live demo: https://log-analysis-simulator-qrrsnjdsgw.streamlit.app/
 
 ## Tech Stack
 - Python 3.9+
